@@ -1,0 +1,18 @@
+[
+    {
+        "user_id": "3fa85f64-5717-4562-b3fc-2c963f66afa6",
+        "email": "xtiv@example.com",
+        "password": "holasoystiven",
+        "frist_name": "Steven",
+        "last_name": "Gonzalez",
+        "birth_date": "2021-12-19"
+    },
+    {
+        "user_id": "3fa85f64-5717-4562-b3fc-2c963f66afa6",
+        "email": "adriana@example.com",
+        "password": "holasoyadri",
+        "frist_name": "Adriana",
+        "last_name": "Herrera",
+        "birth_date": "2021-12-19"
+    }
+]
